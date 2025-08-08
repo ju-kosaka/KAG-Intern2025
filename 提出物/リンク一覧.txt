@@ -1,0 +1,11 @@
+＜Geminiとの会話記録＞
+進捗どうですかBot作成記録
+https://g.co/gemini/share/d7a494a01b30
+BookPalette作成記録
+https://g.co/gemini/share/b12de745b1aa
+
+＜作成したリポジトリ＞
+進捗どうですかBot
+https://github.com/Ide-Motohiro/sinchoku-manager
+BookPalette
+https://github.com/Ide-Motohiro/book-palette-sns
